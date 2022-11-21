@@ -7,9 +7,10 @@ Welcome to ex01's documentation!
 ================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Contents:
 
+   cheetsheet
    ex01
 
 Indices and tables
